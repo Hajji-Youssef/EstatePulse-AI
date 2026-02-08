@@ -1,0 +1,5 @@
+{
+  "name": "EstatePulse AI",
+  "description": "A sophisticated house price prediction chatbot powered by Gemini and a custom regression engine for real-estate valuation.",
+  "requestFramePermissions": []
+}
